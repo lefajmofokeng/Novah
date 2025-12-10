@@ -603,5 +603,3 @@ This component is available for personal and commercial use under the MIT Licens
 ---
 
 *Novah Studio represents a production-ready hero component that balances visual impact with technical robustness. Its modular architecture and comprehensive documentation make it suitable for integration into projects ranging from simple portfolio sites to complex enterprise applications.*
- 
- 

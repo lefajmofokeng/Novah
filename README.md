@@ -4,9 +4,11 @@
 
 **Novah Studio** is a sophisticated, full-screen hero component designed for creative agencies, design studios, and portfolio websites. Featuring a cinematic video background with an elegant grid-based layout, this component creates an immersive first impression while maintaining optimal readability and user engagement.
 
+<img width="1920" height="877" alt="novah" src="https://github.com/user-attachments/assets/835f2f64-a437-4eff-a644-05efea7bf4be" />
+
 ## Live Demo
 
-[View Novah](https://thisislefa.github.io/Novah/)
+[View Novah](https://lefajmofokeng.github.io/Novah/)
 
 ## Technical Architecture
 
